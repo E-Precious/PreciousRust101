@@ -1,0 +1,9 @@
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\librustc_demangle-099f725ad88f0fde.rmeta: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\legacy.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\v0.rs
+
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\librustc_demangle-099f725ad88f0fde.rlib: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\legacy.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\v0.rs
+
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\rustc_demangle-099f725ad88f0fde.d: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\legacy.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\v0.rs
+
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\lib.rs:
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\legacy.rs:
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rustc-demangle-0.1.23\src\v0.rs:

@@ -1,0 +1,9 @@
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\libbootloader-15c878b5f0b41b11.rmeta: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\libbootloader-15c878b5f0b41b11.rlib: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\PRECIOUS ESONU\Desktop\Year 3 semester 1\CSC 305 Operating Systems\InClassWork\barest\target\x86_64-bootimage-barest\debug\deps\bootloader-15c878b5f0b41b11.d: C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs
+
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\lib.rs:
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\mod.rs:
+C:\Users\PRECIOUS\ ESONU\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bootloader-0.9.23\src\bootinfo\memory_map.rs:

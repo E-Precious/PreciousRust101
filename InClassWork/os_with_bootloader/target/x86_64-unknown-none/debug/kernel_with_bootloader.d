@@ -1,0 +1,1 @@
+C:\Users\PRECIOUS\ ESONU\Desktop\Year\ 3\ semester\ 1\CSC\ 305\ Operating\ Systems\InClassWork\os_with_bootloader\target\x86_64-unknown-none\debug\kernel_with_bootloader: C:\Users\PRECIOUS\ ESONU\Desktop\Year\ 3\ semester\ 1\CSC\ 305\ Operating\ Systems\InClassWork\os_with_bootloader\kernel_with_bootloader\src\main.rs
